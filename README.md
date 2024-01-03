@@ -5,7 +5,7 @@
 
 - 🤝 Collaboration is my jam. I thrive on working with diverse teams, whether they're tech gurus or not, creating solutions that make everyone's day just a bit brighter.
 
-- 🌱 When I'm not decoding the mysteries of the web, you'll catch me hanging out with my family and friends, or on the mats practicing Brazilian Jiu-Jitsu - because life is all about balance, right?
+- 🌱 When I'm not decoding the mysteries of the web, you'll catch me diving into personal development, hanging out with my family and friends, or on the mats practicing Brazilian Jiu-Jitsu - because life is all about balance, right?
 
 - 📬 Let's connect! Whether it's a project, a tech puzzle, or just a chat over a cup of coffee, I'm your guy.
 
