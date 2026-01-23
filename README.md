@@ -1,13 +1,20 @@
-- I'm Anthony Wells, a fun personable Front-end Engineer who is most likely to bust a move on any designated dance floor! I'm a life long learner who has a passion for problem-solving and a heart that beats code, and always ready to dive into a new challenge. 
+Hi, I’m Anthony Wells 👋  
+Software Engineer focused on building reliable, production-ready systems.
 
-- I've explored the realms of filmmaking and hospitality before switching into the world of software development! I bring with me an open-mind and great work ethic.
-  
-- I have deep experience in JavaScript, React, Astro, express, and more
+I’m a language-agnostic software developer with experience building and supporting end-to-end systems across the full software development lifecycle. My work emphasizes clear requirements, reliable implementation, testing, and maintainable delivery—especially in environments handling sensitive or regulated data.
 
-- I thrive on working with diverse teams, whether they're tech gurus or not, creating solutions that make everyone's day just a bit better than yesterday.
+Before moving fully into software engineering, I worked in hospitality and filmmaking. Those backgrounds shaped how I collaborate with teams, communicate clearly across disciplines, and take ownership of outcomes. I bring a strong work ethic, attention to detail, and a systems-oriented mindset to every project.
 
-- When I'm not decoding the mysteries of the web, you'll catch me diving into personal development, hanging out with my family and friends, or on the mats practicing Brazilian Jiu-Jitsu
+### What I work with
+- JavaScript / TypeScript
+- React, Astro, Express
+- SQL-backed systems (PostgreSQL, MongoDB)
+- Linux/UNIX-based development environments
+- Git, Docker, and modern deployment workflows
 
-- 📬 Let's connect! Whether it's a project, a tech puzzle, or just a chat over a cup of coffee.
+I enjoy working with both technical and non-technical partners to translate requirements into software that works in the real world. I’m especially interested in building systems that are reliable, testable, and easy to operate over time.
 
+Outside of engineering, I focus on personal development, spend time with family and friends, and train Brazilian Jiu-Jitsu—activities that reinforce discipline, adaptability, and steady problem-solving.
+
+📬 Always open to connecting—whether it’s about software, systems, or solving interesting problems together.
 
